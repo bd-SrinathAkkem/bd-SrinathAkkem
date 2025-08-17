@@ -6,12 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=srinathakkem&label=Profile%20views&color=0e75b6&style=flat" alt="srinathakkem" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/srinath_akkem" target="blank">
-    <img src="https://img.shields.io/twitter/follow/srinath_akkem?logo=twitter&style=for-the-badge" alt="srinath_akkem" />
-  </a>
-</p>
-
 ---
 
 ### 🔭 Current Work
