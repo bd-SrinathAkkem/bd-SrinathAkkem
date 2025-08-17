@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Srinath</h1>
+<h1 align="center">Hello Everyone 👋, I'm Srinath Akkem</h1>
 <h3 align="center">Software Engineer at Black Duck | Ex-TCS | Full-Stack Developer | Java, Python, Spring Boot, REST APIs, CI/CD, Microservices, SQL, JavaScript, ReactJS | AZ-400 | AWS Certified | Research Enthusiast</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ---
 
 ### 🔭 Current Work
-- Working on [bd-AI-PR-Reviewer](https://github.com/bd-SrinathAkkem/bd-ai-pr-reviewer) — an AI-powered tool for automated PR reviews.
+- Working on [bd-devagent](https://github.com/bd-SrinathAkkem/bd-devagent) — an AI-powered tool for automated development.
 
 ### 🌱 Learning & Growth
 - Exploring advanced frameworks and tools including **Python, React.js, Node.js, Go, and AWS** to stay ahead in tech.
@@ -53,7 +53,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
