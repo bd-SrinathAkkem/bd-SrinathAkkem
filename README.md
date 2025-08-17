@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello Everyone 👋, I'm Srinath Akkem</h1>
 <h3 align="center">Software Engineer at Black Duck | Ex-TCS | Full-Stack Developer | Java, Python, Spring Boot, REST APIs, CI/CD, Microservices, SQL, JavaScript, ReactJS | AZ-400 | AWS Certified | Research Enthusiast</h3>
 
